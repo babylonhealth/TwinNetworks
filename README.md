@@ -1,4 +1,4 @@
-# Causal Models
+# Twin Networks and Causal Models
 A model for creating and handling Structural Causal models. Additional benefits:
 
 - Easy creation and handling of twin networks.
