@@ -11,6 +11,8 @@ This is still very much research code. It's expected to be buggy, but the basics
 It's useful for playing around with SCMs in a native Python class, and especially for
 approximate inference.
 
+*Note: this repo is not actively maintained. [For the actively maintained repo, see here.](https://github.com/logangraham/TwinNetworks)
+
 ## Directory structure
 
 ```
